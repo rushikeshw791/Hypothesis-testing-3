@@ -7,3 +7,4 @@ Thus, Alternative hypothesis as Ha Dependence of categorical variables
 Inference: As (p_value = 0.2771) > (α = 0.05); Accept Null Hypthesis 
 i.e. Independence of categorical variables Thus, customer order forms
 defective % does not varies by centre.
+[Costomer+OrderForm.csv](https://github.com/rushikeshw791/Hypothesis-testing-3/files/9692134/Costomer%2BOrderForm.csv)
